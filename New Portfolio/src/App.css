@@ -93,7 +93,7 @@
 
 .video-container {
   position: relative;
-  padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+  padding-bottom: 56.25%;
   height: 0;
   overflow: hidden;
   border-radius: 12px;
@@ -111,8 +111,8 @@
 
 /* footer styling */
 .footer {
-  background-color: #222; /* Dark background */
-  color: #fff; /* Light text for contrast */
+  background-color: #222;
+  color: #fff;
   padding: 40px 20px;
   text-align: center;
   margin-top: 40px;
@@ -141,7 +141,7 @@
 }
 
 .footer-socials a:hover {
-  color: #007acc; /* Accent color */
+  color: #007acc;
   transform: scale(1.05);
 }
 
@@ -149,39 +149,3 @@
   font-size: 14px;
   color: #ccc;
 }
-
-/*.home {
-  max-width: 800px; 
-  margin: auto;
-  padding: 40px;
-  background-color: #f9f9f9;
-  color: #333;
-  /* border-radius: 15px; 
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
-}
-
-.home-title {
-  font-size: 36px;
-  font-weight: bold;
-  color: #007acc;
-  margin-bottom: 20px;
-}
-
-.home-bio {
-  font-size: 18px;
-  line-height: 1.6;
-  margin: 0 0 20px 0;
-  color: #555;
-}
-
-.home-elevator {
-  font-size: 20px;
-  font-weight: bold;
-  color: #007acc;
-  margin-top: 20px;
-  text-align: center;
-  background-color: #e0f4ff;
-  padding: 10px;
-  border-radius: 8px;
-}
-*/
